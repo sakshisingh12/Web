@@ -28,7 +28,7 @@ if menu_id == "" or menu_id == "About Me":
         </style>
         """, unsafe_allow_html=True)
     
-    st.markdown('<p class="big-font">Hello, nice to meet you!<br> I am Sakshi, Sophomore at Indian Institute of Information Technology Vadodara-International Campus Diu, I am interested in Scientific Programming, Mathematics, Algorithms, Data Science and Machine Learning. I love doing adventures, like travelling, tracking, rapelling, hill-climbing etc. Currently I am learning Julia, Machine Learning and Algorithms Analysis. I am the part of various communities who supports unrepresented groups in technology. I would like to make a change in world for better!</p>',
+    st.markdown('<p class="big-font">Hello, nice to meet you!<br> I am Sakshi, Sophomore at Indian Institute of Information Technology Vadodara-International Campus Diu, I am interested in Scientific Programming, Development, Mathematics, Algorithms, Data Science and Machine Learning. I have experience in Research and Development. I love doing adventures, like travelling, tracking, rapelling, hill-climbing etc. Currently I am learning Julia, Machine Learning and Algorithms Analysis. I am the part of various communities who supports unrepresented groups in technology. I would like to make a change in world for better!</p>',
         unsafe_allow_html=True
     )
 
